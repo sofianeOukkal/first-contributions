@@ -4761,4 +4761,5 @@ Michael Wong
 - [Saumya](https://twitter.com/saumya1singh)
 - [Jaron Bauers](https://github.com/jaron-bauers)
 - [purplemicah](https://github.com/purplemicah)
+- [sofianeOukkal](https://github.com/sofianeOukkal)
 <!-- prettier-ignore-end -->
